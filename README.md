@@ -190,10 +190,10 @@ Displays parsed information interactively, including:
 ---
 
 ## 🧑‍💻 Author
-**Developed by:** [Your Name]
+**Developed by:** [Suman YADAV]
 
-**Email:** your.email@example.com  
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)
+**Email:** sumanyadav051608@gmail.com  
+**GitHub:** [https://github.com/yourusername](https://github.com/Suman-9301)
 
 ---
 
