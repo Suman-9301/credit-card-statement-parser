@@ -98,7 +98,7 @@ Frontend Display + CSV Export
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/credit-card-statement-parser.git
+git clone https://github.com/Suman-9301/credit-card-statement-parser.git
 cd credit-card-statement-parser
 ```
 
