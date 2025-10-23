@@ -87,7 +87,7 @@ Frontend Display + CSV Export
 ## 🧩 Folder Structure
 ```
 📂 CreditCardStatementParser/
-├── cc_statement_parser.py    # Main Streamlit app (single file)
+├── credit_card_statement_parser.py    # Main Streamlit app (single file)
 ├── README.md                 # Documentation (this file)
 └── requirements.txt          # Dependencies list
 ```
@@ -114,7 +114,7 @@ pip install streamlit pdfplumber pandas python-dateutil
 
 ### 3️⃣ Run the Streamlit App
 ```bash
-streamlit run cc_statement_parser.py
+streamlit run credit_card_statement_parser.py
 ```
 
 ### 4️⃣ Upload a PDF
