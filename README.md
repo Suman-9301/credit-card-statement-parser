@@ -190,10 +190,10 @@ Displays parsed information interactively, including:
 ---
 
 ## 🧑‍💻 Author
-**Developed by:** [Suman YADAV]
+**Developed by:** [Suman Yadav]
 
 **Email:** sumanyadav051608@gmail.com  
-**GitHub:** [https://github.com/yourusername](https://github.com/Suman-9301)
+**GitHub:** [https://github.com/Suman-9301](https://github.com/Suman-9301)
 
 ---
 
