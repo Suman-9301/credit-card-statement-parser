@@ -125,22 +125,10 @@ streamlit run credit_card_statement_parser.py
 ---
 
 ## 📋 Example Output
-### Summary Section
-| Field | Example |
-|--------|----------|
-| Issuer | CitiBank |
-| Card Last 4 | 1234 |
-| Card Variant | Rewards+ Card |
-| Billing Cycle | Jan 15, 2025 - Feb 15, 2025 |
-| Payment Due Date | Mar 10, 2025 |
-| Total Balance | 25,432.10 |
+<img width="996" height="534" alt="image" src="https://github.com/user-attachments/assets/53e4f034-def0-4e4b-96b2-be69086715da" />
+<img width="936" height="594" alt="image" src="https://github.com/user-attachments/assets/6d94e7cd-71e9-433b-8664-173c61c922ca" />
+<img width="943" height="412" alt="image" src="https://github.com/user-attachments/assets/e31423d1-28e3-4303-b694-41885e1e3ddf" />
 
-### Transactions Table
-| Date | Description | Amount |
-|------|--------------|---------|
-| 01/25/2025 | AMAZON MARKETPLACE | 799.00 |
-| 01/27/2025 | STARBUCKS | 250.00 |
-| 02/05/2025 | NETFLIX.COM | 499.00 |
 
 ---
 
